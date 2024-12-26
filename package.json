@@ -1,7 +1,7 @@
 {
   "name": "first-app",
   "version": "0.1.0",
-  "homepage": "https://irinakalietnik.github.io/Contacts-list-React/",
+  "homepage": "https://irinakalietnik.github.io/Contacts-list-React",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
@@ -32,5 +32,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "web-vitals": "^4.2.4"
   }
 }
